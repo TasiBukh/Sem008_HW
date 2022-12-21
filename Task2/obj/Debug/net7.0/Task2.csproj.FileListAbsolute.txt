@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\Рабочий стол\Homework8\Task2\obj\Debug\net7.0\Task2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Homework8\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Homework8\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Homework8\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Homework8\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
